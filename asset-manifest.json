@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teja_magic_form/static/css/main.6419bd74.css",
+    "main.js": "/teja_magic_form/static/js/main.963bb5db.js",
+    "static/js/453.b6625afa.chunk.js": "/teja_magic_form/static/js/453.b6625afa.chunk.js",
+    "index.html": "/teja_magic_form/index.html",
+    "main.6419bd74.css.map": "/teja_magic_form/static/css/main.6419bd74.css.map",
+    "main.963bb5db.js.map": "/teja_magic_form/static/js/main.963bb5db.js.map",
+    "453.b6625afa.chunk.js.map": "/teja_magic_form/static/js/453.b6625afa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6419bd74.css",
+    "static/js/main.963bb5db.js"
+  ]
+}
