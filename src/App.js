@@ -103,7 +103,7 @@ const handleMouseOver=()=>{
 }
 
 const handleSubmit=()=>{
-  alert('You entered all correctly');
+  alert('You entered all details correctly');
 }
 
   return (
